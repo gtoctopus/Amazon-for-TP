@@ -414,7 +414,7 @@ class ButtonFrame(wx.Frame):
 
 
         # 添加头部，伪装浏览器
-        #session = requests.session()
+
 
 
         for j in range(2, nrProduct+1):  ###source表格数据是从第二行开始，到max+1行 结束
